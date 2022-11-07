@@ -1,3 +1,5 @@
+########################## CODE #################################
+
 https://github.com/zhenglz/onionnet
 
 https://mrzv.org/software/dionysus2/
@@ -11,5 +13,12 @@ https://dl.acm.org/doi/abs/10.1145/3447548.3467311
 https://github.com/gcorso/diffdock
 
 https://github.com/agave233/SIGN
+
+https://github.com/IkeguchiLab/3D-RISM-AI   (Ready Dataset to use)
+
+
+########################## PAPER #################################
+
+https://academic.oup.com/bib/article/23/1/bbab476/644431
 
 
