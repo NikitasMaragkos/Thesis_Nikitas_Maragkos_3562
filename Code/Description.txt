@@ -19,6 +19,8 @@ https://github.com/IkeguchiLab/3D-RISM-AI   (Ready Dataset to use)
 
 ########################## PAPER #################################
 
-https://academic.oup.com/bib/article/23/1/bbab476/644431
+https://academic.oup.com/bib/article/23/1/bbab476/644431  ( Review Paper )
+
+https://github.com/deepchem/DeepLearningLifeSciences/issues/26    ( A Book )
 
 
