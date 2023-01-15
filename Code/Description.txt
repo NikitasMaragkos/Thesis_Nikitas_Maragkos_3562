@@ -16,6 +16,8 @@ https://github.com/gcorso/diffdock  A great but complex repository from a paper
 
 https://github.com/IkeguchiLab/3D-RISM-AI   Ready Dataset to use
 
+https://github.com/LiuXiangMath/Hypergraph-based-Persistent-Cohomology/tree/560a3b8deef08215982cbb16ad12f16a5e1f02a5  A repo that computes simplicies from pdb files
+
 
 ########################## PAPER #################################
 
